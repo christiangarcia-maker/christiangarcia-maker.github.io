@@ -1,3 +1,11 @@
-body {
-  background-color: powerblue;
+#vacio {
+  list-style-type: circle;;
+}
+
+#cuadrado {
+  list-style-type: square;
+}
+
+#relleno {
+  list-style-type: disc;
 }
