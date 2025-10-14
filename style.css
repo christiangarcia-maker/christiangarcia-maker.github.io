@@ -1,11 +1,11 @@
-.vacio {
+#vacio {
   list-style-type: circle;;
 }
 
-.cuadrado {
+#cuadrado {
   list-style-type: square;
 }
 
-.relleno {
+#relleno {
   list-style-type: disc;
 }
