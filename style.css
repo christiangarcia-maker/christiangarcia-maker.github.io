@@ -10,3 +10,20 @@
 #relleno {
   list-style-type: disc;
 }
+
+table {
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+  th, td, tr {
+    border: 1px solid #000;
+    padding: 10px;
+    color: blue;
+  }
+
+  th, tr {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
