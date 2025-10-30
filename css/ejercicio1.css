@@ -19,7 +19,6 @@ th {
     padding: 15px;
     letter-spacing: 1px;
     font-size: 1.1em;
-    border: solid 2px black;
 }
 
 td img {
@@ -41,4 +40,5 @@ a:hover {
     text-decoration: none;
 
 }
+
 
