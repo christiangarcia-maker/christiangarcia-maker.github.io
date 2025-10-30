@@ -28,17 +28,18 @@ td img {
     border-radius: 3px;
 }
 
-a {
+td a {
     color: #9C2007;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
-a:hover {
+td a:hover {
     color: #8F8F8F;
     text-decoration: none;
 
 }
+
 
 
