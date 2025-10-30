@@ -1,9 +1,6 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     margin: 0;
 }
@@ -43,4 +40,5 @@ a {
 a:hover {
     color: #8F8F8F;
     text-decoration: none;
+
 }
