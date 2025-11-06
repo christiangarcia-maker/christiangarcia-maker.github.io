@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="https://lm.ciclo.iesnervion.es/form3/envio.php" method="post">
+        <h1>FORMULARIO CONTACTO</h1>
+        <fieldset>
+            <label for="nombre">Nombre</label>
+            <input type="text" id="nombre" name="nombre">
+            <br>
+            <label for="correo">Correo Electronico</label>
+            <input type="email" id="correo" name="correo">
+            <br>
+            <textarea rows="8" cols="50" placeholder="Introduzca su mensaje." id="mensaje" name="mensaje"></textarea>
+        </fieldset>
+        <input type="button" value="Enviar" onclick="enviarFormulario()">
+    </form>
+
+</body>
+</html>
